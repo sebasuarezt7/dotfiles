@@ -1,0 +1,7 @@
+[core]
+    editor = code --wait
+
+[alias]
+    st = status
+    lg = log --oneline --graph --all
+    br = branch
